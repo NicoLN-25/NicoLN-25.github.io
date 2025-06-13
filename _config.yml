@@ -17,6 +17,10 @@ remote_theme: mmistakes/minimal-mistakes
 include:
   - _pages
 
+# Cutoms
+custom_css:
+  - /assets/css/custom.css
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
@@ -78,8 +82,3 @@ defaults:
 header_pages:
   - _pages/about.md
   - _pages/research-cv.md
-
-# Cutoms
-custom_css:
-  - /assets/css/custom.css
-
