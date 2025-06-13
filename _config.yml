@@ -1,5 +1,5 @@
 # Site settings
-title: "Nicolas Luna's portfolio"
+title: "Professional portfolio"
 email: "nico250999@gmail.com"
 description: "Portafolio profesional de ciencia de datos, bioinformática e investigación."
 baseurl: "" 
@@ -39,7 +39,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Nicolás Luna Niño"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
