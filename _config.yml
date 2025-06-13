@@ -88,7 +88,4 @@ defaults:
 # pages
 header_pages:
   - _pages/about.md
-  - _pages/projects.md
-  - _pages/data-analyst-cv.md
   - _pages/research-cv.md
-  - _pages/contact.md
