@@ -78,3 +78,8 @@ defaults:
 header_pages:
   - _pages/about.md
   - _pages/research-cv.md
+
+# Cutoms
+custom_css:
+  - /assets/css/custom.css
+
