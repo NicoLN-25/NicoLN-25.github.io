@@ -1,7 +1,10 @@
-/* Font style and size*/
+/* Import Google Font: Lato */
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+/* Apply Lato to all text */
 body,
 html,
 h1, h2, h3, h4, h5, h6,
 p, li, span, div {
-  font-family: "Lucida Grande", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+  font-family: 'Lato', "Helvetica Neue", Helvetica, Arial, sans-serif !important;
 }
