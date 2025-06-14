@@ -10,7 +10,7 @@ toc_sticky: true
 
 # 📊 Power BI Projects  
 
-## PROJECT I
+## Project I
 
 **Geographic and geospatial analyses of COVD-19 in Colombia: Trends in case distribution, recovery, and mortality (2023–2024)**
 
@@ -35,7 +35,7 @@ Este proyecto consiste en un dashboard interactivo que permite explorar métrica
 📥 [Descargar el archivo Power BI (.pbix)](/assets/files/Casos_positivos_de_COVID-19_en_Colombia_(2023-2024).pbix)  
 📗 [Descargar Dataset (.xlsx)](/assets/files/COVID-19_Colombia_2023-2024.xlsx)  
 
-## PROJECT II
+## Project II
 
 ---
 
