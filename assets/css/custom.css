@@ -17,8 +17,14 @@ div {
   line-height: 1.5; /* Mejora la legibilidad */
 }
 
-/* Cambiar color de íconos del header */
+/* Change icon color of header */
 .site-nav-toggle,
 .search__toggle {
   color: #000000 !important;
+}
+
+/* Cambia color del texto y fondo al hacer hover sobre un enlace del menú */
+.nav__drawer a:hover {
+  color: #ffffff; /* color del texto al hacer hover */
+  background-color: #d32f2f; /* color de fondo al hacer hover (ejemplo: rojo oscuro) */
 }
