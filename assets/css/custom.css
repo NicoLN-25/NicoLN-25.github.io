@@ -23,3 +23,14 @@ body, html, p, li, span, div {
 .site-nav-toggle, .search__toggle {
   color: #000000 !important;
 }
+
+/* Justificar texto en el contenido principal */
+.page__content p {
+  text-align: justify;
+}
+
+/* Ancho del contenedor principal  */
+.page {
+  max-width: 960px;
+  margin: 0 auto;
+}
