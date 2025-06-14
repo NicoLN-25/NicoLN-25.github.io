@@ -43,9 +43,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Nicolás Luna Niño"
+  name   : "Nicolás Luna Niño Bsc MSc"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Bioinformatician 🧬🦠, Data Analyst 📊📈 and scientist 👨🏻‍💻🖥️"
+  bio    : "Bioinformatician, Data Analyst and scientist"
   links:
     - label: "GitHub"
       icon: "fab fa-github"
