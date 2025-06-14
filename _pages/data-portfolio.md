@@ -20,7 +20,11 @@ Este proyecto consiste en un dashboard interactivo que permite explorar métrica
 
 **Herramientas utilizadas:** Power BI Desktop, DAX, Excel
 
-📥 [Descargar el archivo Power BI (.pbix)](/assets/files/ventas-dashboard.pbix)
+**Informe de análisis del Dashboard**  
+[Informe (.pdf)](/assets/files/Proyecto_Final.pdf)
+
+**Archivos empleados:**  
+📥 [Descargar el archivo Power BI (.pbix)](/assets/files/Casos_positivos_de_COVID-19_en_Colombia_(2023-2024).pbix)
 
 ---
 
