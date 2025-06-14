@@ -46,7 +46,7 @@ body, html, p, li, span, div {
   display: block;
   background-color: #ffffff;    /* fondo blanco */
   color: #000000;               /* texto oscuro */
-  padding: 10px 14px;
+  padding: 10px 12px;
   font-size: 0.90rem;
   text-transform: uppercase;
   border-bottom: 1px solid #e5e5e5;
@@ -61,7 +61,7 @@ body, html, p, li, span, div {
 
 /* Ajuste de tamaño según nivel (opcional y sutil) */
 .toc .toc__menu > li > a {
-  font-weight: bold;
+  font-weight: bold !important;
 }
 .toc .toc__menu > li > ul > li > a {
   padding-left: 24px;
