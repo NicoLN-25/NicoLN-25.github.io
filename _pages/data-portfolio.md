@@ -2,6 +2,7 @@
 title: "Data Analyst Portfolio"
 layout: single
 permalink: /data-portfolio/
+author_profile: false
 ---
 
 ## 📊 Power BI Projects  
