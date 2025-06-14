@@ -3,7 +3,7 @@
   font-family: 'Lato', sans-serif;
 }
 
-.nav__title, .author__name, h1, h2, h3, h4, h5, h6 {
+.toc .nav__title, .author__name, h1, h2, h3, h4, h5, h6 {
   font-family: 'Montserrat', sans-serif;
 }
 
@@ -14,14 +14,13 @@ body, html, p, li, span, div {
 }
 
 .site-title {
-  font-size: 20px;
-  font-family: 'Montserrat', sans-serif;
+  font-size: 1.5rem;
   color: #333; /* o el color que prefieras */
 }
 
-.nav__title {
+.toc .nav__title {
   font-size: 1rem;
-  font-family: 'Montserrat', sans-serif;
+    background: #000000;
   color: #333; /* o el color que prefieras */
 }
 
