@@ -25,6 +25,13 @@ div {
 
 /* Cambia color del texto y fondo al hacer hover sobre un enlace del menú */
 .nav__drawer a:hover {
-  color: #ffffff; /* color del texto al hacer hover */
-  background-color: #d32f2f; /* color de fondo al hacer hover (ejemplo: rojo oscuro) */
+  color: #000000; /* color del texto al hacer hover */
+  background-color: #000000; /* color de fondo al hacer hover (ejemplo: rojo oscuro) */
+}
+
+.nav__drawer a.active,
+.nav__drawer a[aria-current="page"] {
+  color: #000000; /* color del texto de la sección activa */
+  background-color: #000000; /* color de fondo para la sección activa */
+  font-weight: bold;
 }
