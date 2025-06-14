@@ -34,11 +34,3 @@ body, html, p, li, span, div {
 .page__content p {
   text-align: justify;
 }
-
-/* Ancho del contenedor principal  */
-.page {
-  max-width: 900px;
-  margin-left: auto;
-  margin-right: auto;
-  padding: 0 1.5rem;
-}
