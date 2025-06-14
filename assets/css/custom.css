@@ -27,3 +27,54 @@ body, html, p, li, span, div {
 .page__content p {
   text-align: justify;
 }
+
+/* Encabezado del ToC */
+.toc .toc-title,
+.toc h2 {
+  background-color: #000000;   /* negro */
+  color: #ffffff;              /* texto blanco */
+  font-size: 1.2rem;
+  font-weight: bold;
+  padding: 10px 15px;
+  margin: 0;
+  border-radius: 6px 6px 0 0;
+}
+
+/* Contenedor general */
+.toc {
+  font-family: 'Lato', sans-serif;
+  background-color: #ffffff;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  padding: 0;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+/* Nivel 1 */
+.toc ul > li > a {
+  font-size: 1.05rem;
+  font-weight: 600;
+  padding: 10px;
+  display: block;
+  color: #212121;
+  text-decoration: none;
+}
+
+/* Nivel 2 */
+.toc ul ul > li > a {
+  font-size: 0.95rem;
+  padding-left: 20px;
+}
+
+/* Nivel 3 */
+.toc ul ul ul > li > a {
+  font-size: 0.85rem;
+  padding-left: 30px;
+}
+
+/* Hover (gris claro) */
+.toc a:hover {
+  background-color: #eeeeee;
+  color: #000000;
+  text-decoration: none;
+}
