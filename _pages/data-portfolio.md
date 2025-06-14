@@ -5,6 +5,8 @@ permalink: /data-portfolio/
 author_profile: false
 ---
 
+---
+
 # 📊 Power BI Projects  
 
 > 💡 These proyects are part of my portfolio as Data Analyst.
