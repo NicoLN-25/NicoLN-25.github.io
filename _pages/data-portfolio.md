@@ -2,7 +2,6 @@
 title: "Data Analyst Portfolio"
 layout: single
 permalink: /data-portfolio/
-author_profile: true
 ---
 
 ## 📊 Power BI Projects  
@@ -18,13 +17,17 @@ Este proyecto consiste en un dashboard interactivo que permite explorar métrica
 - Visualizar dinámicas mensuales y anuales
 - Calcular KPIs como fallecimientos, recuperaciones y casos activos
 
-**Herramientas utilizadas:** Power BI Desktop, DAX, Excel
+**Herramientas utilizadas:** 
+- Power BI Desktop
+- DAX
+- Excel
 
 **Informe de análisis del Dashboard**  
-[Informe (.pdf)](/assets/files/Proyecto_Final.pdf)
+📋 [Informe (.pdf)](/assets/files/Proyecto_Final.pdf)
 
 **Archivos empleados:**  
-📥 [Descargar el archivo Power BI (.pbix)](/assets/files/Casos_positivos_de_COVID-19_en_Colombia_(2023-2024).pbix)
+📥 [Descargar el archivo Power BI (.pbix)](/assets/files/Casos_positivos_de_COVID-19_en_Colombia_(2023-2024).pbix)  
+📗 [Descargar Dataset (.xlsx)](/assets/files/COVID-19_Colombia_2023-2024.xlsx)  
 
 ---
 
