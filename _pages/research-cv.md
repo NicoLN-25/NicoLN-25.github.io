@@ -17,7 +17,7 @@ Biologist and Master in Natural Sciences with a passion for the world of microbi
 *Universidad del Rosario, Bogotá, Colombia*
 
 **Bachelor of Sciences (BSc) in Biology**  
-*Universidad del Rosario, Bogotá, Colombia*
+*Universidad del Rosario, Bogotá, Colombia*  
 **Disciplinary mention:** Health, Environment and Society, and Evolution and Molecular Biology
 
 ---
