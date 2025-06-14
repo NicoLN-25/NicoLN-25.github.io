@@ -45,7 +45,7 @@ plugins:
 author:
   name   : "Nicolás Luna Niño"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "**Bioinformatician | Data Analyst | Data scientist**"
+  bio    : "Bioinformatician, Data Analyst and Data scientis"
   links:
     - label: "GitHub"
       icon: "fab fa-github"
@@ -53,6 +53,12 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/nicolas-luna-nino/"
+    - label: "ResearchGate"
+      icon: "fab fa-researchgate"
+      url: "https://www.researchgate.net/profile/Nicolas-Luna-Nino-2/research"
+    - label: "Google Scholar"
+      icon: "fas fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=-nDhqZ4AAAAJ&hl=es"
 
 footer:
   links:
