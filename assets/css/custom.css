@@ -27,10 +27,3 @@ body, html, p, li, span, div {
 .page__content p {
   text-align: justify;
 }
-
-.toc {
-  background-color: #000;
-  color: #fff;
-  border-radius: 6px;
-  font-family: 'Lato', sans-serif;
-}
