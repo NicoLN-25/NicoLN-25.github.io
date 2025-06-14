@@ -5,3 +5,14 @@ h1, h2, h3, h4, h5, h6,
 p, li, span, div {
   font-family: 'Varela', "Lucida Grande", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
 }
+
+/* Font size of body text */
+body,
+html,
+p,
+li,
+span,
+div {
+  font-size: 18px !important; /* Ajusta el número según tu preferencia */
+  line-height: 1.5; /* Mejora la legibilidad */
+}
