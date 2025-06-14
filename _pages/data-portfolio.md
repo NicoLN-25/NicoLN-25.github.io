@@ -3,6 +3,9 @@ title: "Data Analyst Portfolio"
 layout: single
 permalink: /data-portfolio/
 author_profile: false
+toc: true
+toc_label: "Table of contents"
+toc_sticky: true
 ---
 
 # 📊 Power BI Projects  
