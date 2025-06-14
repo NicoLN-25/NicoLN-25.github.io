@@ -61,11 +61,12 @@ body, html, p, li, span, div {
 
 /* Ajuste de tamaño según nivel (opcional y sutil) */
 .toc .toc__menu > li > a {
-  font-weight: bold !important;
+  font-weight: 600;
 }
 .toc .toc__menu > li > ul > li > a {
   padding-left: 24px;
   font-size: 0.85rem;
+  font-weight: bold;
 }
 .toc .toc__menu > li > ul > li > ul > li > a {
   padding-left: 32px;
