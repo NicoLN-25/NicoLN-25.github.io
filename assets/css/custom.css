@@ -1,9 +1,10 @@
 /* Fonts styles */
-body,
-html,
-h1, h2, h3, h4, h5, h6,
-p, li, span, div {
-  font-family: 'Varela', "Lucida Grande", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+body, html, p, li, span, div {
+  font-family: 'Lato', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Montserrat', sans-serif;
 }
 
 /* Font size of body text */
