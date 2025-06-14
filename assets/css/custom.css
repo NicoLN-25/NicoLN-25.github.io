@@ -3,27 +3,28 @@
   font-family: 'Lato', sans-serif;
 }
 
-.toc .nav__title, .author__name, h1, h2, h3, h4, h5, h6 {
+.toc .nav__title, .author__name, .site-title, h1, h2, h3, h4, h5, h6 {
   font-family: 'Montserrat', sans-serif;
 }
 
 /* Font size of body text */
 body, html, p, li, span, div {
-  font-size: 18px !important; /* Ajusta el número según tu preferencia */
-  line-height: 1.5; /* Mejora la legibilidad */
+  font-size: 18px;
+  line-height: 1.5;
 }
 
+/* Change size and color of site title */
 .site-title {
   font-size: 1.5rem;
-  color: #333; /* o el color que prefieras */
+  color: #000;
 }
 
 /* Change icon color of header */
 .site-nav-toggle, .search__toggle {
-  color: #000000 !important;
+  color: #000;
 }
 
-/* Justificar texto en el contenido principal */
+/* justify principal text */
 .page__content p {
   text-align: justify;
 }
