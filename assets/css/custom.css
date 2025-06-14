@@ -21,7 +21,7 @@ body, html, p, li, span, div {
 .toc .nav__title {
   font-size: 1rem;
     background: #000000;
-  color: #333; /* o el color que prefieras */
+  color: #FFFF; /* o el color que prefieras */
 }
 
 /* Change icon color of header */
