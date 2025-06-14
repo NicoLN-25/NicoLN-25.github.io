@@ -1,5 +1,5 @@
 /* Fonts styles */
-.sidebar p, .sidebar li, .author__name, .author__bio, .author__urls, body, html, p, li, span, div {
+.author__name, .author__bio, .author__urls, body, html, p, li, span, div {
   font-family: 'Lato', sans-serif;
 }
 
@@ -14,7 +14,7 @@ body, html, p, li, span, div {
 }
 
 .site-title {
-  font-size: 2rem;
+  font-size: 1rem;
   font-family: 'Montserrat', sans-serif;
   color: #333; /* o el color que prefieras */
 }
