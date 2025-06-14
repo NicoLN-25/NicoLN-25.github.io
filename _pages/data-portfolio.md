@@ -10,8 +10,6 @@ toc_sticky: true
 
 # 📊 Power BI Projects  
 
-> 💡 These proyects are part of my portfolio as Data Analyst.
-
 ---
 
 ## Geographic and geospatial analyses of COVD-19 in Colombia: Trends in case distribution, recovery, and mortality (2023–2024)
@@ -38,3 +36,5 @@ Este proyecto consiste en un dashboard interactivo que permite explorar métrica
 📗 [Descargar Dataset (.xlsx)](/assets/files/COVID-19_Colombia_2023-2024.xlsx)  
 
 ---
+
+> 💡 These proyects are part of my portfolio as Data Analyst.
