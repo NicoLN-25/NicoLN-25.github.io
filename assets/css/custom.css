@@ -16,3 +16,9 @@ div {
   font-size: 18px !important; /* Ajusta el número según tu preferencia */
   line-height: 1.5; /* Mejora la legibilidad */
 }
+
+/* Cambiar color de íconos del header */
+.site-nav-toggle,
+.search__toggle {
+  color: #000000 !important;
+}
