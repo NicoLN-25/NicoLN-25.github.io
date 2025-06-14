@@ -28,13 +28,9 @@ body, html, p, li, span, div {
   text-align: justify;
 }
 
-.toc .toc-title,
-.toc h2 {
-  background-color: #000000;   /* Fondo negro */
-  color: #ffffff;              /* Texto blanco */
-  font-size: 1.2rem;           /* Tamaño de letra del encabezado */
-  font-weight: bold;          /* Texto en negrita */
-  padding: 10px 15px;         /* Espaciado interno: 10 arriba/abajo, 15 izq/der */
-  margin: 0;                  /* Sin márgenes exteriores */
-  border-radius: 6px 6px 0 0; /* Bordes redondeados solo arriba (esquinas superiores) */
+.toc {
+  background-color: #000;
+  color: #fff;
+  border-radius: 6px;
+  font-family: 'Lato', sans-serif;
 }
