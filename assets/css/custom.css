@@ -36,9 +36,6 @@ body, html, p, li, span, div {
   color: #ffffff;
   text-transform: uppercase;
   font-weight: bold;
-  padding: 10px 12px;
-  border-top-left-radius: 6px;
-  border-top-right-radius: 6px;
 }
 
 /* TOC link styles */
@@ -46,7 +43,6 @@ body, html, p, li, span, div {
   display: block;
   background-color: #ffffff;    /* fondo blanco */
   color: #000000;               /* texto oscuro */
-  padding: 10px 12px;
   font-size: 0.90rem;
   text-transform: uppercase;
   border-bottom: 1px solid #e5e5e5;
