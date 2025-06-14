@@ -17,6 +17,7 @@ Biologist and Master in Natural Sciences with a passion for the world of microbi
 *Universidad del Rosario, Bogotá, Colombia*   
 **Bachelor of Sciences (BSc) in Biology**  
 *Universidad del Rosario, Bogotá, Colombia*
+
 **Disciplinary mention:** Health, Environment and Society, and Evolution and Molecular Biology
 
 ---
@@ -27,7 +28,6 @@ Biologist and Master in Natural Sciences with a passion for the world of microbi
 *Universidad del Rosario (2021–2024)*  
 - Participated in projects on genomic surveillance of emerging pathogens, including **SARS-CoV-2** and **Monkeypox virus**.  
 - Characterized the **microbial ecology** of diverse biological systems using **next-generation sequencing** (NGS).  
-- Co-authored **25 peer-reviewed publications**, contributing to study design, data analysis, and writing.  
-- Conducted **phylogenetic**, **ecological**, and **bioinformatic** analyses on diverse microbes.
+- Conducted **molecular** and **bioinformatic** analyses on diverse microbes.
 
 ---
