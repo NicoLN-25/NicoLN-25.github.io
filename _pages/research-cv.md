@@ -43,6 +43,6 @@ Biologist and Master in Natural Sciences with a passion for the world of microbi
 
 ## 📄 Full CV
 
-A complete academic CV is available [here](/assets/files/CV_NLN.pdf)
+A complete academic CV is available <a href="/assets/files/CV_NLN.pdf" target="_blank">here</a>
 
 ---
