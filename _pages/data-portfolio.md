@@ -5,12 +5,13 @@ permalink: /data-portfolio/
 author_profile: false
 ---
 
-## 📊 Power BI Projects  
+# 📊 Power BI Projects  
 
-> 💡 These proyects are part of as Data Analyst.
+> 💡 These proyects are part of my portfolio as Data Analyst.
+
 ---
 
-### Geographic and geospatial analyses of COVD-19 in Colombia: Trends in case distribution, recovery, and mortality (2023–2024)
+## Geographic and geospatial analyses of COVD-19 in Colombia: Trends in case distribution, recovery, and mortality (2023–2024)
 
 Este proyecto consiste en un dashboard interactivo que permite explorar métricas clave de ventas a lo largo del tiempo, por regiones y por categorías de productos.
 
