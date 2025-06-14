@@ -1,5 +1,5 @@
 /* Fonts styles */
-.author__name, .author__bio, .author__urls, body, html, p, li, span, div {
+.nav__title, .author__name, .author__bio, .author__urls, body, html, p, li, span, div {
   font-family: 'Lato', sans-serif;
 }
 
