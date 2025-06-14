@@ -3,3 +3,5 @@ main:
     url: /about/
   - title: "Research CV"
     url: /research-cv/
+  - title: "Data Analyst Portfolio"
+    url: /data-portfolio/
