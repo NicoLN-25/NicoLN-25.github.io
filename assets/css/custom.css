@@ -1,5 +1,5 @@
 /* Fonts styles */
-body, html, p, li, span, div {
+.author__name, .author__bio, .author__urls, body, html, p, li, span, div {
   font-family: 'Lato', sans-serif;
 }
 
@@ -8,18 +8,18 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /* Font size of body text */
-body,
-html,
-p,
-li,
-span,
-div {
+body, html, p, li, span, div {
   font-size: 18px !important; /* Ajusta el número según tu preferencia */
   line-height: 1.5; /* Mejora la legibilidad */
 }
 
+.site-title {
+  font-size: 2rem;
+  font-family: 'Montserrat', sans-serif;
+  color: #333; /* o el color que prefieras */
+}
+
 /* Change icon color of header */
-.site-nav-toggle,
-.search__toggle {
+.site-nav-toggle, .search__toggle {
   color: #000000 !important;
 }
