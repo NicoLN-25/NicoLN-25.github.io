@@ -45,7 +45,7 @@ plugins:
 author:
   name   : "Nicolás Luna Niño"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "**Bioinformatician | Data Analyst | Data scientist**"
   links:
     - label: "GitHub"
       icon: "fab fa-github"
