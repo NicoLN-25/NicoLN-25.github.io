@@ -39,3 +39,30 @@ body, html, p, li, span, div {
   padding: 8px;
 }
 
+/* TOC general link style */
+.toc .toc__menu a {
+  color: #000000;
+  display: block;
+  background: none;
+  padding: 6px 10px;
+}
+
+/* Hover and active link */
+.toc .toc__menu a:hover, .toc .toc__menu .active > a {
+  background-color: #d3d3d3; /* gris claro */
+  color: #000000;
+}
+
+/* Font sizes by heading level (adjust according to nesting) */
+.toc .toc__menu > li > a {
+  font-size: .95rem;        /* h2 - Nivel 1 */
+  font-weight: bold;
+}
+
+.toc .toc__menu > li > ul > li > a {
+  font-size: 0.90rem;     /* h3 - Nivel 2 */
+}
+
+.toc .toc__menu > li > ul > li > ul > li > a {
+  font-size: 0.85rem;      /* h4 - Nivel 3 */
+}
