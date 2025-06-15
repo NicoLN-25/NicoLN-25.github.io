@@ -16,7 +16,7 @@ toc_sticky: true
 
 Este proyecto consiste en un dashboard interactivo que permite explorar métricas clave de ventas a lo largo del tiempo, por regiones y por categorías de productos.
 
-![Vista previa del dashboard](/assets/images/Resumen_PBI.PNG)
+![Vista previa del dashboard](/assets/images/Resumen_PBI.PNG){: .align-right}
 
 **Objectives of the analysis:**
 - Examinar las dinámicas casos positivos de COVID-19, recuperaciones, y muertes a nivel geográfico, demográfico y clínico durante los años 2023-2024
@@ -28,10 +28,10 @@ Este proyecto consiste en un dashboard interactivo que permite explorar métrica
 - DAX
 - Excel
 
-### Informe de análisis del Dashboard  
+**Informe de análisis del Dashboard**  
 📋 [Informe (.pdf)](/assets/files/Proyecto_Final.pdf)
 
-### Archivos empleados:  
+**Archivos empleados**  
 📥 [Descargar el archivo Power BI (.pbix)](/assets/files/Casos_positivos_de_COVID-19_en_Colombia_(2023-2024).pbix)  
 📗 [Descargar Dataset (.xlsx)](/assets/files/COVID-19_Colombia_2023-2024.xlsx)  
 
