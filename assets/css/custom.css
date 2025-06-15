@@ -24,11 +24,6 @@ body, html, p, li, span, div {
   color: #000;
 }
 
-/* justify principal text */
-.page__content p {
-  text-align: justify;
-}
-
 /* TOC styles */
 .toc .nav__title {
   font-size: 0.95rem;
