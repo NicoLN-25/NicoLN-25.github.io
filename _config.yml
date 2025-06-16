@@ -14,6 +14,15 @@ atom_feed:
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 
+kramdown:
+  input: GFM
+  hard_wrap: false
+  syntax_highlighter_opts:
+    span:
+      line_numbers: false
+  parse_block_html: true
+  auto_ids: true
+
 include:
   - _pages
 
