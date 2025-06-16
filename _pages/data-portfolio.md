@@ -16,7 +16,7 @@ toc_sticky: true
 
 Este proyecto consiste en un dashboard interactivo que permite explorar métricas clave de ventas a lo largo del tiempo, por regiones y por categorías de productos.
 
-![Vista previa del dashboard](/assets/images/Resumen_PBI.PNG){: .align-right}
+![Dashboard](/assets/images/Resumen_PBI.PNG){: .align-center}
 
 **Objectives of the analysis:**
 - Examinar las dinámicas casos positivos de COVID-19, recuperaciones, y muertes a nivel geográfico, demográfico y clínico durante los años 2023-2024
