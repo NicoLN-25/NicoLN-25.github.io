@@ -12,7 +12,7 @@ toc_sticky: true
 
 ## Project I
 
-**Geographic and geospatial analyses of COVD-19 in Colombia: Trends in case distribution, recovery, and mortality (2023–2024)**
+**Geographic and geospatial analyses of COVD-19 in Colombia: Trends in case distribution, recovery, and mortality (2023–2024)**{: style="text-align: center;"}  
 
 Este proyecto consiste en un dashboard interactivo que permite explorar métricas clave de ventas a lo largo del tiempo, por regiones y por categorías de productos.
 
